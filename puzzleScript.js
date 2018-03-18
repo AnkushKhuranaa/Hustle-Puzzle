@@ -288,7 +288,7 @@ function revealSol()
 function displayInfo()
 {
 
-  alert("Welcome to Mayank's Puzzle, "+q+"! Below are some instructions and features of the puzzle.\n\n 1) Test Progress: This feature will allow users to track their progress. This button displays the number of cells a user is away from winning the game, and notfies if some extra cells are marked.\n\n 2) Change Background Image: This feature changes the background each time user clicks the associated button.\n\n3) Idle User: If the user has been idle for more than an hour, the window confirms if the user is still present and closes the window otherwise. \n\n 4) After winning, the puzzle asks the user if he wants to continue playing with cells, close the puzzle or restart the puzzle.\n\n Enjoy puzzling! ");
+  alert("Welcome to Puzzle, "+q+"! Below are some instructions and features of the puzzle.\n\n 1) Test Progress: This feature will allow users to track their progress. This button displays the number of cells a user is away from winning the game, and notfies if some extra cells are marked.\n\n 2) Change Background Image: This feature changes the background each time user clicks the associated button.\n\n3) Idle User: If the user has been idle for more than an hour, the window confirms if the user is still present and closes the window otherwise. \n\n 4) After winning, the puzzle asks the user if he wants to continue playing with cells, close the puzzle or restart the puzzle.\n\n Enjoy puzzling! ");
 }
 function resetTable()   //Clears all the colors.
 {
