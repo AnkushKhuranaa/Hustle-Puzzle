@@ -1,4 +1,4 @@
-Hustle-Puzzle is my small puzzle game. In this puzzle, the player has to match colored boxes in each row and column. Each row and colunm has a number (or a string of numbers). This numbers represent number of colored or broken boxes. The player has to try and match until all the colored boxes are found. The game ends when all colored boxes are found. There are additional features like changing background images, testing your progress, reveal solution, and reset. 
+Hustle-Puzzle is a javascript puzzle game in which the user has to match colored boxes in each row and column. There is a number associated with each row and column which represents number of colored boxes in that row/column. The player has to find all the colored boxes in order to win. There are additional features including changing background images, testing your progress, reveal solution, and reset. 
 
 
 
